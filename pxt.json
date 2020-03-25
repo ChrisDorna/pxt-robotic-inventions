@@ -12,7 +12,6 @@
         "main.ts"
 		"_locales/nl/Strawbees Robotic Inventions-jsdoc-strings.json",
 		"_locales/nl/Strawbees Robotic Inventions-strings"
-
     ],
     "testFiles": [
         "test.ts"
